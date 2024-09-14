@@ -1,0 +1,16 @@
+div{
+  background-color: blue;
+  text-shadow: 0 0 0 red;
+  text-align: center;
+  direction: ltr;
+
+}
+
+div {
+  width: auto;
+  background-color: yellow;
+  text-shadow: 0 0 0 red;
+  text-align: center;
+  direction: ltr;
+  word-wrap: break-word;
+}
