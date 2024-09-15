@@ -1,0 +1,32 @@
+/* div{
+  background-color: aqua;
+
+  font-size: 16px;
+  
+}
+div span{
+  font-size: 2em;
+} */
+
+/*  */
+
+body {
+  font-size: 40px;
+  }
+  div{
+  background-color: #eee;
+  }
+  div span {
+  font-size: 2em;
+  }
+/*                     */
+  body {
+    font-size: 40px;
+    }
+    div{
+    background-color: #eee;
+    font-size: 20px;
+    }
+    div span {
+    font-size: 2rem;
+    }    
